@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa017327-c9ae-4437-ab5b-054e268d3162" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1jUyYA7XFUtmBnV1BzWhaamugQa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../KIT-IWWW-3-basic-php" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\petan\PhpstormProjects\Form" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Example3\css" />
+      <recent name="C:\xampp\htdocs\Example3\page" />
+      <recent name="C:\xampp\htdocs\Example3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa017327-c9ae-4437-ab5b-054e268d3162" name="Default Changelist" comment="" />
+      <created>1603873009691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603873009691</updated>
+      <workItem from="1603873011120" duration="1959000" />
+      <workItem from="1603875351443" duration="20562000" />
+      <workItem from="1603898997593" duration="4554000" />
+      <workItem from="1603903648466" duration="1295000" />
+      <workItem from="1604044277815" duration="25196000" />
+      <workItem from="1604562615153" duration="1771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="179" key="#PHP" timestamp="1603880806114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="179" key="#PHP/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603880806114" />
+    <state x="336" y="361" key="#SQL_Dialects" timestamp="1604059296133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="336" y="361" key="#SQL_Dialects/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604059296133" />
+    <state x="-1452" y="266" width="816" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603884440726">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1452" y="266" width="816" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603884440726" />
+    <state x="690" y="283" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603873317317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="283" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603873317317" />
+    <state x="740" y="291" key="FileChooserDialogImpl" timestamp="1604047382809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="291" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603884341086" />
+    <state x="740" y="291" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604047382809" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1603884157220">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603884157220" />
+    <state x="794" y="459" key="NewPhpFileDialog" timestamp="1603888721316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="459" key="NewPhpFileDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603888721316" />
+    <state x="440" y="227" key="SettingsEditor" timestamp="1604071358373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="227" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603884368743" />
+    <state x="440" y="227" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604071358373" />
+    <state x="859" y="397" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1603884488500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="397" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603884488500" />
+    <state x="814" y="397" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1603885101819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="814" y="397" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603885101819" />
+    <state x="766" y="257" width="493" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1603885083263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="766" y="257" width="493" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603885083263" />
+    <state x="113" y="101" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604065944908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-108" y="162" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1603904190530" />
+    <state x="113" y="101" width="1720" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604065944908" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1604045414944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604045414944" />
+    <state x="678" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1604071275920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="238" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1604071275920" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/page/account.php</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

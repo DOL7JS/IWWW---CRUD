@@ -1,0 +1,116 @@
+header{
+    border: black solid;
+    justify-content: space-between;
+    display: flex;
+    background-color: lightslategray;
+    padding: 10px;
+}
+a{
+    color: darkslategrey;
+}
+body{
+    background-color: grey;
+}
+h1{
+    font-size: 40px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+}
+header a{
+    font-size: 30px;
+    margin-right: 40px;
+}
+header nav{
+    position: absolute;
+    right: 10px;
+    top: 50px;
+}
+.images{
+    padding: 25px;
+    width: 100px;
+}
+.images img{
+    width: 200px;
+    height: 120px;
+}
+ article  h2{
+     text-align: center;
+
+ }
+ #imageList{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+ }
+.centerImages{
+    width: 1000px;
+    margin: auto;
+}
+.imageWithName{
+    background-color: white;
+    border:solid black 3px;
+    border-radius: 20px;
+    width:250px;
+    margin: 2px;
+    transition: 0.5s;
+
+}
+.imageWithName:hover{
+    background-color: dimgrey;
+    transition: 0.5s;
+
+}
+footer {
+    border: black solid;
+    justify-content: space-around;
+    display: flex;
+    background-color: lightslategray;
+    padding: 10px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    left: 10px;
+}
+footer div{
+    font-size: 50px;
+}
+footer li{
+    font-size: 20px;
+    color: darkslategrey;
+}
+.centerForm{
+    width: 500px;
+    margin: 100px auto auto 43%;
+}
+.row{
+    padding: 10px;
+    box-sizing: content-box;
+}
+.row [type="submit"]{
+    margin-left: 100px;
+}
+.row select {
+    width: 177px;
+    margin-left: 10px;
+}
+#editTable{
+    border: black 5px solid;
+    width: 300px;
+    background-color: darkgrey;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    right: 50px;
+    flex-direction: column;
+
+}
+
+
+
+
+
